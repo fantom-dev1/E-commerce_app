@@ -1,0 +1,112 @@
+{
+  "cartItems": [
+    {
+      "id": "1",
+      "name": "iPhone X Pro - Latest Model",
+      "price": 999.99,
+      "image": "https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg",
+      "quantity": 1,
+      "color": "Space Gray",
+      "storage": "256GB"
+    },
+    {
+      "id": "2",
+      "name": "Premium Wireless Headphones",
+      "price": 249.99,
+      "image": "https://images.pexels.com/photos/1279107/pexels-photo-1279107.jpeg",
+      "quantity": 2,
+      "color": "Black",
+      "features": ["Noise Cancelling", "40h Battery"]
+    },
+    {
+      "id": "3",
+      "name": "Gaming Laptop Pro",
+      "price": 1299.99,
+      "image": "https://images.pexels.com/photos/193942/pexels-photo-193942.jpeg",
+      "quantity": 1,
+      "color": "Black",
+      "specs": ["RTX 4070", "16GB RAM", "1TB SSD"]
+    },
+    {
+      "id": "4",
+      "name": "Designer Handbag",
+      "price": 159.99,
+      "image": "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg",
+      "quantity": 1,
+      "color": "Brown",
+      "material": "Genuine Leather"
+    },
+    {
+      "id": "5",
+      "name": "Smart Watch Pro",
+      "price": 249.99,
+      "image": "https://images.pexels.com/photos/1279107/pexels-photo-1279107.jpeg",
+      "quantity": 1,
+      "color": "Silver",
+      "features": ["Heart Rate Monitor", "GPS", "Water Resistant"]
+    },
+    {
+      "id": "6",
+      "name": "Running Shoes",
+      "price": 89.99,
+      "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg",
+      "quantity": 1,
+      "color": "White/Blue",
+      "size": "US 9"
+    },
+    {
+      "id": "7",
+      "name": "Coffee Maker",
+      "price": 79.99,
+      "image": "https://images.pexels.com/photos/324028/pexels-photo-324028.jpeg",
+      "quantity": 1,
+      "color": "Stainless Steel",
+      "features": ["Timer", "Auto Shut-off", "12-cup capacity"]
+    },
+    {
+      "id": "8",
+      "name": "Wireless Earbuds",
+      "price": 129.99,
+      "image": "https://images.pexels.com/photos/1279107/pexels-photo-1279107.jpeg",
+      "quantity": 2,
+      "color": "White",
+      "features": ["Charging Case", "Touch Controls", "20h Battery"]
+    },
+    {
+      "id": "9",
+      "name": "Yoga Mat",
+      "price": 29.99,
+      "image": "https://images.pexels.com/photos/4056723/pexels-photo-4056723.jpeg",
+      "quantity": 1,
+      "color": "Purple",
+      "features": ["Non-slip", "6mm thick", "Carrying strap"]
+    },
+    {
+      "id": "10",
+      "name": "Portable Speaker",
+      "price": 59.99,
+      "image": "https://images.pexels.com/photos/1267434/pexels-photo-1267434.jpeg",
+      "quantity": 1,
+      "color": "Black",
+      "features": ["Waterproof", "12h Battery", "Bluetooth 5.0"]
+    },
+    {
+      "id": "11",
+      "name": "Desk Lamp",
+      "price": 39.99,
+      "image": "https://images.pexels.com/photos/1112598/pexels-photo-1112598.jpeg",
+      "quantity": 1,
+      "color": "White",
+      "features": ["LED", "Adjustable brightness", "USB charging port"]
+    },
+    {
+      "id": "12",
+      "name": "Fitness Tracker",
+      "price": 99.99,
+      "image": "https://images.pexels.com/photos/6975475/pexels-photo-6975475.jpeg",
+      "quantity": 1,
+      "color": "Black",
+      "features": ["Heart Rate", "Sleep Tracking", "7-day battery"]
+    }
+  ]
+}

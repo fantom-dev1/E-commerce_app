@@ -1,0 +1,94 @@
+{
+  "banners": [
+    {
+      "id": "1",
+      "title": "New Arrivals",
+      "subtitle": "BIG SALE",
+      "discount": "70% OFF",
+      "note": "ON ALL MODELS",
+      "ctaText": "BUY NOW",
+      "image": "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg"
+    },
+    {
+      "id": "2",
+      "title": "Summer",
+      "subtitle": "FLASH SALE",
+      "discount": "50% OFF",
+      "note": "LIMITED TIME ONLY",
+      "ctaText": "SHOP NOW",
+      "image": "https://images.pexels.com/photos/1456706/pexels-photo-1456706.jpeg"
+    },
+    {
+      "id": "3",
+      "title": "Special Offer",
+      "subtitle": "CLEARANCE",
+      "discount": "60% OFF",
+      "note": "WHILE SUPPLIES LAST",
+      "ctaText": "GET DEALS",
+      "image": "https://images.pexels.com/photos/1027130/pexels-photo-1027130.jpeg"
+    },
+    {
+      "id": "4",
+      "title": "Electronics",
+      "subtitle": "MEGA SALE",
+      "discount": "80% OFF",
+      "note": "SMARTPHONES & GADGETS",
+      "ctaText": "EXPLORE",
+      "image": "https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg"
+    },
+    {
+      "id": "5",
+      "title": "Fashion Week",
+      "subtitle": "TRENDY STYLES",
+      "discount": "40% OFF",
+      "note": "LATEST FASHION TRENDS",
+      "ctaText": "DISCOVER",
+      "image": "https://images.pexels.com/photos/934063/pexels-photo-934063.jpeg"
+    },
+    {
+      "id": "6",
+      "title": "Home & Living",
+      "subtitle": "COZY DEALS",
+      "discount": "55% OFF",
+      "note": "FURNITURE & DECOR",
+      "ctaText": "SHOP HOME",
+      "image": "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg"
+    },
+    {
+      "id": "7",
+      "title": "Sports & Fitness",
+      "subtitle": "ACTIVE LIFE",
+      "discount": "45% OFF",
+      "note": "FITNESS EQUIPMENT",
+      "ctaText": "GET FIT",
+      "image": "https://images.pexels.com/photos/3764958/pexels-photo-3764958.jpeg"
+    },
+    {
+      "id": "8",
+      "title": "Beauty & Care",
+      "subtitle": "GLOW UP",
+      "discount": "35% OFF",
+      "note": "SKINCARE & MAKEUP",
+      "ctaText": "BEAUTIFY",
+      "image": "https://images.pexels.com/photos/2113855/pexels-photo-2113855.jpeg"
+    },
+    {
+      "id": "9",
+      "title": "Weekend Special",
+      "subtitle": "WEEKEND RUSH",
+      "discount": "65% OFF",
+      "note": "SATURDAY & SUNDAY ONLY",
+      "ctaText": "GRAB NOW",
+      "image": "https://images.pexels.com/photos/1456706/pexels-photo-1456706.jpeg"
+    },
+    {
+      "id": "10",
+      "title": "Back to School",
+      "subtitle": "STUDY ESSENTIALS",
+      "discount": "30% OFF",
+      "note": "BOOKS & SUPPLIES",
+      "ctaText": "LEARN MORE",
+      "image": "https://images.pexels.com/photos/1370295/pexels-photo-1370295.jpeg"
+    }
+  ]
+}
